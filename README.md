@@ -12,7 +12,14 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 nvim ~/.config/nvim
 ```
 note: ignore the errors for now and type this command
-```nvim
+```neovim
 :PackerSync
 ```
 then reopen neovim and no errors should occour
+
+
+## Keybinds
+```neovim
+shift + f ⇨ open file explorer
+alt + t ⇨ open terminal
+```
